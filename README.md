@@ -1,13 +1,13 @@
 # Number Plate Creator V5 - Releases
 
-This repository hosts **Windows installers and auto-update files** for [Number Plate Creator](https://cripdevelopments.co.uk) (NPC) by **Smurfy @ Crip Developments**.
+This repository hosts **Windows installers and auto-update files** for Number Plate Creator (NPC) by **Smurfy @ Smurf Customs**.
 
 It is used for:
 
 - Automatic updates in the installed app (`electron-updater`)
 - Manual downloads for new users and testers
 
-**Source code is not included.** NPC is closed-source. This repo contains release binaries only.
+**Source code is not included.** NPC is closed-source.
 
 ---
 
@@ -21,7 +21,7 @@ You need a **licence key** (Free or Pro) from Payhip to use the app after instal
 
 ## Download & install (first time)
 
-1. Open **[Releases](https://github.com/CripDevelopments/NumberPlateCreatorV5/releases/latest)**
+1. Open **[Releases](https://github.com/SmurfCutoms/NumberPlateCreatorV5/releases/latest)**
 2. Download the installer, e.g. `NumberPlateCreator-Setup-5.0.0.exe`
 3. Run the installer and follow the prompts
 4. Get a licence key (see below), then open the app and **activate** it
@@ -38,8 +38,8 @@ The installer is the **app only**. You still need a key:
 
 | Tier | What you get | Get key |
 |------|----------------|---------|
-| **Free** | Core creator, diffuse PNG exports (limited), core themes | [Payhip Free (£0)](https://cripdevelopments.co.uk/b/number-plate-creator-free) |
-| **Pro** | Unlimited exports, Pro maps/themes, vehicle tools, gallery upload, and more | [Payhip Pro (£10 a year)](https://cripdevelopments.co.uk/b/number-plate-creator-pro) |
+| **Free** | Core creator, diffuse PNG exports (limited), core themes | [Payhip Free (£0)](https://smurfcustoms.co.uk/b/number-plate-creator-free) |
+| **Pro** | Unlimited exports, Pro maps/themes, vehicle tools, gallery upload, and more | [Payhip Pro (£10 a year)](https://smurfcustoms.co.uk/b/number-plate-creator-pro) |
 
 **After you have a key:**
 
@@ -49,10 +49,10 @@ The installer is the **app only**. You still need a key:
 
 Guides:
 
-- [Main licence / download readme](https://cripguard.cripdevelopments.co.uk/npc-license/readme.html)
-- [Free licence readme](https://cripguard.cripdevelopments.co.uk/npc-license/NPC-FREE-LICENSE.html)
-- [Pro licence readme](https://cripguard.cripdevelopments.co.uk/npc-license/NPC-PRO-LICENSE.html)
-- [Features & Free vs Pro table](https://cripguard.cripdevelopments.co.uk/npc-license/NPC-FEATURES-GUIDE.html)
+- [Main licence / download readme](https://smurfguard.smurfcustoms.co.uk/npc-license/readme.html)
+- [Free licence readme](https://smurfguard.smurfcustoms.co.uk/npc-license/NPC-FREE-LICENSE.html)
+- [Pro licence readme](https://smurfguard.smurfcustoms.co.uk/npc-license/NPC-PRO-LICENSE.html)
+- [Features & Free vs Pro table](https://smurfguard.smurfcustoms.co.uk/npc-license/NPC-FEATURES-GUIDE.html)
 
 ---
 
@@ -83,11 +83,11 @@ In the app, turn on **Include beta / pre-release builds** in Settings if you wan
 
 ## Support
 
-- Website: [cripdevelopments.co.uk](https://cripdevelopments.co.uk)  
-- Discord: [discord.cripdevelopments.co.uk](https://discord.cripdevelopments.co.uk)  
-- Email: [info@cripdevelopments.co.uk](mailto:info@cripdevelopments.co.uk)
+- Website: [smurfcustoms.co.uk](https://smurfcustoms.co.uk)  
+- Discord: [discord.smurfcustoms.co.uk](https://discord.smurfcustoms.co.uk)  
+- Email: [info@smurfcustoms.co.uk](mailto:info@smurfcustoms.co.uk)
 
 ---
 
-© Crip Developments - All rights reserved.  
+© 2026 Smurf Customs - All rights reserved.  
 Number Plate Creator is proprietary software. Redistribution, modification, or reverse engineering is not permitted.
